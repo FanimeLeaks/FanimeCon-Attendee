@@ -1,12 +1,3 @@
-# FanimeCon-Attendee
-
-https://github.com/Sukurudo/FIPS_County_Zip
-
-
-Analysis of FanimeCon Attendee Data
-http://fani.mobi/stats18-20
-
-
 # FanimeCon Attendee Data Analysis 2018 - 2020
 Classify and categorize demographics data from Attendees to the FanimeCon conferance from 2018 through 2020. Come up with conclusions of what types of attendees we have, and where it would be best to spend resources increasing our attendance.
 
@@ -21,3 +12,6 @@ Classify and categorize demographics data from Attendees to the FanimeCon confer
 Using QUickDBD, I mapped out the single key that would link the two databases togther. One database, FIPS; contained county demographics such as name, state, and population data. The other database contained FanimeCon attendee data that was already processed to contain the county number based on the attendees postal code.
 
 ![Attendee ERD](Data/ERD.png)
+
+## Analysis of FanimeCon Attendee Data
+http://fani.mobi/stats18-20
